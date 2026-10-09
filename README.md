@@ -5,6 +5,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-blue)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38bdf8)](https://tailwindcss.com/)
 [![Conformità ADM](https://img.shields.io/badge/Conformit%C3%A0-ADM%20Virtuale-amber)](https://www.adm.gov.it/)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/edik17/ScommesseRitardiTreni)
 [![Cybersecurity](https://img.shields.io/badge/Security-OWASP%20Top%2010-emerald)](https://owasp.org/)
 
 > **TrainBet Italia** trasforma la proverbiale criticità dei ritardi ferroviari italiani in un'esperienza di intrattenimento competitivo e sicuro.
